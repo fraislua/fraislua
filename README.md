@@ -51,7 +51,7 @@
 ## 6. 連絡先・リンク
 
 - Email: fraislua@gmail.com
-- Steam: （記入予定）
+- Steam: https://steamcommunity.com/profiles/76561199172911128/
 
 ---
 
