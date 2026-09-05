@@ -4,7 +4,7 @@
 
 ## 1. 基本情報
 
-- 所属: 立命館大学 情報理工学部 3回生
+- 所属: 大学3回生
 - 志望職種: ゲームプランナー / ゲームプログラマー
 
 ## 2. 設計哲学（Philosophy）
@@ -22,7 +22,6 @@
 - DOTween
 - UniTask
 - UniRx
-- VContainer
 
 ### Ops / Infra
 
@@ -39,7 +38,8 @@
 
 ## 4. プロジェクト実績（Featured Projects）
 
-- **EclipseDiver**（制作中）: 「操作感（手触り）」と「フィードバック」を最重視して開発しているゲーム。バーティカルスライス（1ステージ / 1戦闘サイクルの完成度を高めるアプローチ）で開発を進めている
+- **EclipseDiver**（公開済み）: 2026年春のUnityroom Game Jamで制作した作品。「操作感（手触り）」と「フィードバック」を最重視して開発した
+- **Project_Orbital**（制作中）: タワーディフェンスゲーム。詳細は追って追記予定
 - **Gemini Spark（自作エージェント）**: 朝の意思決定コスト削減と思考ログの自動蓄積を目的とした自作エージェント。詳細は [gemini_spark_architecture.md](./docs/projects/gemini_spark_architecture.md) を参照
 
 ## 5. 思考ログ一覧
@@ -50,7 +50,8 @@
 
 ## 6. 連絡先・リンク
 
-- （記入予定）
+- Email: fraislua@gmail.com
+- Steam: （記入予定）
 
 ---
 
