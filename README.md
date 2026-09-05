@@ -33,14 +33,14 @@
 ### AI
 
 - Claude Code
-- Gemini Spark（自作エージェント）
+- Gemini Spark
 - LM Studio
 
 ## 4. プロジェクト実績（Featured Projects）
 
 - **EclipseDiver**（公開済み）: 2026年春のUnityroom Game Jamで制作した作品。「操作感（手触り）」と「フィードバック」を最重視して開発した
 - **Project_Orbital**（制作中）: タワーディフェンスゲーム。詳細は追って追記予定
-- **Gemini Spark（自作エージェント）**: 朝の意思決定コスト削減と思考ログの自動蓄積を目的とした自作エージェント。詳細は [gemini_spark_architecture.md](./docs/projects/gemini_spark_architecture.md) を参照
+- **Gemini Spark**: 朝の意思決定コスト削減と思考ログの自動蓄積を目的に、日々の生活に組み込んで運用している。詳細は [gemini_spark_architecture.md](./docs/projects/gemini_spark_architecture.md) を参照
 
 ## 5. 思考ログ一覧
 
