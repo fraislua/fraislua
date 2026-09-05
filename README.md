@@ -38,7 +38,7 @@
 
 ## 4. プロジェクト実績（Featured Projects）
 
-- **EclipseDiver**（公開済み）: 2026年春のUnityroom Game Jamで制作した作品。「操作感（手触り）」と「フィードバック」を最重視して開発した
+- **[EclipseDiver](https://unityroom.com/games/eclipsediver)**（公開済み）: 2026年春のUnityroom Game Jamで制作した作品。「操作感（手触り）」と「フィードバック」を最重視して開発した
 - **Project_Orbital**（制作中）: タワーディフェンスゲーム。詳細は追って追記予定
 - **Gemini Spark**: 朝の意思決定コスト削減と思考ログの自動蓄積を目的に、日々の生活に組み込んで運用している。詳細は [gemini_spark_architecture.md](./docs/projects/gemini_spark_architecture.md) を参照
 
@@ -52,6 +52,7 @@
 
 - Email: fraislua@gmail.com
 - Steam: https://steamcommunity.com/profiles/76561199172911128/
+- unityroom: https://unityroom.com/users/luqisb2z0rx6jdc4okyt
 
 ---
 
