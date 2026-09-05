@@ -47,6 +47,7 @@
 - [ゲームの手触り：即時フィードバックと遅延フィードバックの心理学](./docs/thinking/01_game_juice_feedback.md)
 - [身体性コントローラーと手応えの設計論（EC2026所感）](./docs/thinking/02_ec2026_physical_controller.md)
 - [バーティカルスライスとチーム開発の同期ロス対策](./docs/thinking/03_vertical_slice_team_dev.md)
+- [Claude Codeの実測トークン量から見るコストパフォーマンス](./docs/thinking/04_claude_code_token_cost_analysis.md)
 
 ## 6. 連絡先・リンク
 
