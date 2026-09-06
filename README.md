@@ -40,6 +40,7 @@
 
 - **[EclipseDiver](https://unityroom.com/games/eclipsediver)**（公開済み）: 2026年春のUnityroom Game Jamで制作した作品。とにかく短いゲームループと、見ていても飽きない見せ方を重視して開発した
 - **Project_Orbital**（制作中）: タワーディフェンスゲーム。詳細は追って追記予定
+- **MiniPCマインクラフトサーバー**（運用中）: MiniPC上にProxmox VE / Ubuntu Server / PaperMCを構築し、運用しているマインクラフトサーバー。詳細は今後のシステム調整後にまとめて追記予定
 - **Gemini Spark**: 朝の意思決定コスト削減と思考ログの自動蓄積を目的に、日々の生活に組み込んで運用している。詳細は [gemini_spark_architecture.md](./docs/projects/gemini_spark_architecture.md) を参照
 
 ## 5. 思考ログ一覧
@@ -57,4 +58,4 @@
 
 ---
 
-最終更新日: 2026-09-05
+最終更新日: 2026-09-06
