@@ -49,6 +49,7 @@
 - [身体性コントローラーと手応えの設計論（EC2026所感）](./docs/thinking/02_ec2026_physical_controller.md)
 - [バーティカルスライスとチーム開発の同期ロス対策](./docs/thinking/03_vertical_slice_team_dev.md)
 - [Claude Codeの実測トークン量から見るコストパフォーマンス](./docs/thinking/04_claude_code_token_cost_analysis.md)
+- [Antigravityの5時間枠1回分をAPI価格に換算する](./docs/thinking/05_antigravity_quota_cost_analysis.md)
 
 ## 6. 連絡先・リンク
 
@@ -58,4 +59,4 @@
 
 ---
 
-最終更新日: 2026-09-19
+最終更新日: 2026-10-02
