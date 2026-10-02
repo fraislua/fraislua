@@ -48,7 +48,7 @@ GitHubの特殊なProfileリポジトリ。`README.md`がそのままGitHubプ�
 - コミットは作業の区切りごとに行ってよい
 - **pushは必ずユーザーの明示的な確認を得てから行う。過去に承認されたからといって、次回以降のpushを無断で行わない（1回ごとに確認する）**
 - **pushする前に、README.md末尾の「最終更新日: YYYY-MM-DD」を当日の日付に更新する**（コンテンツに変更がある場合のみ。typo修正など軽微な変更でも都度更新してよい）
-- コミットメッセージは英語、末尾に `Co-Authored-By: Claude Sonnet 5 <noreply@anthropic.com>` を付与する
+- コミットメッセージは英語、末尾に `Co-Authored-By: Claude <モデル名> <noreply@anthropic.com>` を付与する。モデル名は固定せず、そのコミットを実際に作成したモデルを明記する（例: `Co-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>`）
 
 ## 現状スナップショット（作業前に実体を確認すること）
 
