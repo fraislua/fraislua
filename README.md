@@ -50,6 +50,7 @@
 - [バーティカルスライスとチーム開発の同期ロス対策](./docs/thinking/03_vertical_slice_team_dev.md)
 - [Claude Codeの実測トークン量から見るコストパフォーマンス](./docs/thinking/04_claude_code_token_cost_analysis.md)
 - [Antigravityの5時間枠1回分をAPI価格に換算する](./docs/thinking/05_antigravity_quota_cost_analysis.md)
+- [AIサブスクリプションの利用枠をAPI価格で並べる（まとめ）](./docs/thinking/06_ai_subscription_quota_summary.md)
 
 ## 6. 連絡先・リンク
 
