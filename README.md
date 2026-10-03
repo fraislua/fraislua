@@ -51,6 +51,7 @@
 - [Claude Codeの実測トークン量から見るコストパフォーマンス](./docs/thinking/04_claude_code_token_cost_analysis.md)
 - [Antigravityの5時間枠1回分をAPI価格に換算する](./docs/thinking/05_antigravity_quota_cost_analysis.md)
 - [AIサブスクリプションの利用枠をAPI価格で並べる（まとめ）](./docs/thinking/06_ai_subscription_quota_summary.md)
+- [AIに調べさせた「他社の実測値」を一次情報で確かめる](./docs/thinking/07_ai_research_verification_and_harness.md)
 
 ## 6. 連絡先・リンク
 
@@ -60,4 +61,4 @@
 
 ---
 
-最終更新日: 2026-10-02
+最終更新日: 2026-10-04
