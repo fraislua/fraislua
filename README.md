@@ -52,6 +52,7 @@
 - [Antigravityの5時間枠1回分をAPI価格に換算する](./docs/thinking/05_antigravity_quota_cost_analysis.md)
 - [AIサブスクリプションの利用枠をAPI価格で並べる（まとめ）](./docs/thinking/06_ai_subscription_quota_summary.md)
 - [AIに調べさせた「他社の実測値」を一次情報で確かめる](./docs/thinking/07_ai_research_verification_and_harness.md)
+- [AIに任せた監査が5時間枠の140%を使った理由を、ログで確かめる](./docs/thinking/08_audit_token_overrun_log_analysis.md)
 
 ## 6. 連絡先・リンク
 
@@ -61,4 +62,4 @@
 
 ---
 
-最終更新日: 2026-10-04
+最終更新日: 2026-10-09
