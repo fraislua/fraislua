@@ -53,6 +53,7 @@
 - [AIサブスクリプションの利用枠をAPI価格で並べる（まとめ）](./docs/thinking/06_ai_subscription_quota_summary.md)
 - [AIに調べさせた「他社の実測値」を一次情報で確かめる](./docs/thinking/07_ai_research_verification_and_harness.md)
 - [AIに任せた監査が5時間枠の140%を使った理由を、ログで確かめる](./docs/thinking/08_audit_token_overrun_log_analysis.md)
+- [Google AI Proに付いてきたColabのクレジットで、大きめのオープンモデルを動かす](./docs/thinking/09_colab_credit_open_model_trial.md)
 
 ## 6. 連絡先・リンク
 
