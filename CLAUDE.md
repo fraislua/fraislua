@@ -54,7 +54,7 @@ GitHubの特殊なProfileリポジトリ。`README.md`がそのままGitHubプ�
 
 - 技術スタック: Unity (C#), DOTween, UniTask, UniRx / Proxmox VE, Ubuntu Server, PaperMC, Tailscale / Claude Code, Gemini Spark, LM Studio
   - VContainerは実際には未使用のため技術スタックに含めない
-- Gemini Sparkは自作エージェントではなく、Geminiアプリのエージェント機能（Claude Codeのcoworkに近い機能）を活用して運用しているもの。「自作」という表現は使わない
+- 「Gemini Spark」はオーナーが付けた名前ではなく、Googleの Gemini アプリのエージェント機能の名前（ClaudeのCoworkに近い機能。2026年10月に「Task」へ改称）。オーナーはこれを土台に運用していた仕組みを、2026-11-04 に複数のAIで共有する「KnowledgeBase」として作り直した（記事: `docs/projects/knowledge_base.md`）。「自作エージェント」という表現は使わない
 - プロジェクト:
   - EclipseDiver: 公開済み（2026年春 Unityroom Game Jam作品）。短いゲームループと「見ていても飽きない」見せ方を重視
   - Project_Orbital: 制作中（タワーディフェンス）。詳細は今後追記予定
