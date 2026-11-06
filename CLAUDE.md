@@ -57,7 +57,7 @@ GitHubの特殊なProfileリポジトリ。`README.md`がそのままGitHubプ�
   - Infra（自分で構築・設定）: Proxmox VE, Ubuntu Server, PaperMC, Tailscale
   - AI開発ツール: Claude Code (CLI), Antigravity (CLI), opencode, LM Studio
   - 使用経験あり（大学の講義・チーム制作）: Python, Java, Meta XR SDK
-  - VContainerは実際には未使用のため技術スタックに含めない。リポジトリで使われていても、本人が理解していないと言ったもの（Docker、Home Assistant、llama.cpp、JavaScript など）は載せない
+  - VContainerは実際には未使用のため技術スタックに含めない。リポジトリで使われていても、本人が「自分で扱うには理解が不十分」と判断したもの（Docker、Home Assistant、llama.cpp、JavaScript など）は載せない（まったく理解していないという意味ではない）
 - 「Gemini Spark」はオーナーが付けた名前ではなく、Googleの Gemini アプリのエージェント機能の名前（ClaudeのCoworkに近い機能。2026年10月に「Task」へ改称）。オーナーはこれを土台に運用していた仕組みを、2026-11-04 に複数のAIで共有する「KnowledgeBase」として作り直した（記事: `docs/projects/knowledge_base.md`）。「自作エージェント」という表現は使わない
 - プロジェクト（READMEに載せるのは「完成していて、見てほしい点を一文で言えるもの」。検証用の小品（roulette など）や未完成の企画（Color-battle など）は載せない）:
   - EclipseDiver: 公開済み・個人（2026年春 Unityroom Game Jam作品）。短いゲームループと「見ていても飽きない」見せ方を重視
