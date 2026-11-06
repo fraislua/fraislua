@@ -54,7 +54,7 @@ GitHubの特殊なProfileリポジトリ。`README.md`がそのままGitHubプ�
 
 - 技術スタック（2026-11-06 にオーナー本人の自己評価で区分）:
   - Game: Unity (C#), DOTween, UniTask, UniRx
-  - Infra（自分で構築・設定）: Proxmox VE, Ubuntu Server, PaperMC, Tailscale
+  - Infra: Proxmox VE, Ubuntu Server, PaperMC, Tailscale（本人が自分で構築・設定したもの。READMEの見出しには補足を付けない）
   - AI開発ツール: Claude Code (CLI), Antigravity (CLI), opencode
   - ローカルLLM: LM Studio（ローカルのモデルを手元で試すフロント。開発ツールとは分ける。llama.cpp は本人が理解を深めたら追加を検討）
   - 使用経験あり（大学の講義・チーム制作）: Python, Java, Meta XR SDK

@@ -74,7 +74,7 @@ flowchart TB
 - UniTask
 - UniRx
 
-### Infra（自分で構築・設定）
+### Infra
 
 - Proxmox VE
 - Ubuntu Server
