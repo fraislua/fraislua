@@ -55,7 +55,8 @@ GitHubの特殊なProfileリポジトリ。`README.md`がそのままGitHubプ�
 - 技術スタック（2026-11-06 にオーナー本人の自己評価で区分）:
   - Game: Unity (C#), DOTween, UniTask, UniRx
   - Infra（自分で構築・設定）: Proxmox VE, Ubuntu Server, PaperMC, Tailscale
-  - AI開発ツール: Claude Code (CLI), Antigravity (CLI), opencode, LM Studio
+  - AI開発ツール: Claude Code (CLI), Antigravity (CLI), opencode
+  - ローカルLLM: LM Studio（ローカルのモデルを手元で試すフロント。開発ツールとは分ける。llama.cpp は本人が理解を深めたら追加を検討）
   - 使用経験あり（大学の講義・チーム制作）: Python, Java, Meta XR SDK
   - VContainerは実際には未使用のため技術スタックに含めない。リポジトリで使われていても、本人が「自分で扱うには理解が不十分」と判断したもの（Docker、Home Assistant、llama.cpp、JavaScript など）は載せない（まったく理解していないという意味ではない）
 - 「Gemini Spark」はオーナーが付けた名前ではなく、Googleの Gemini アプリのエージェント機能の名前（ClaudeのCoworkに近い機能。2026年10月に「Task」へ改称）。オーナーはこれを土台に運用していた仕組みを、2026-11-04 に複数のAIで共有する「KnowledgeBase」として作り直した（記事: `docs/projects/knowledge_base.md`）。「自作エージェント」という表現は使わない

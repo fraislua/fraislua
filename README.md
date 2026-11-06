@@ -86,6 +86,9 @@ flowchart TB
 - Claude Code（CLI）
 - Antigravity（CLI）
 - opencode
+
+### ローカルLLM
+
 - LM Studio
 
 ### 使用経験あり（大学の講義・チーム制作）
