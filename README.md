@@ -107,10 +107,10 @@ flowchart TB
 
 ### 最新
 
-- [Google AI Proに付いてきたColabのクレジットで、大きめのオープンモデルを動かす](./docs/thinking/09_colab_credit_open_model_trial.md)
+- [Claude ProからMaxに変えた1ヶ月で、使い方はどう変わったか](./docs/thinking/10_claude_pro_to_max_one_month.md)
 
 <details>
-<summary>すべての記事（9本）</summary>
+<summary>すべての記事（10本）</summary>
 
 #### ゲームデザイン・チーム開発
 
@@ -126,6 +126,7 @@ flowchart TB
 - [AIに調べさせた「他社の実測値」を一次情報で確かめる](./docs/thinking/07_ai_research_verification_and_harness.md)
 - [AIに任せた監査が5時間枠の140%を使った理由を、ログで確かめる](./docs/thinking/08_audit_token_overrun_log_analysis.md)
 - [Google AI Proに付いてきたColabのクレジットで、大きめのオープンモデルを動かす](./docs/thinking/09_colab_credit_open_model_trial.md)
+- [Claude ProからMaxに変えた1ヶ月で、使い方はどう変わったか](./docs/thinking/10_claude_pro_to_max_one_month.md)
 
 </details>
 
@@ -137,4 +138,4 @@ flowchart TB
 
 ---
 
-最終更新日: 2026-11-06
+最終更新日: 2026-11-10
